@@ -1,7 +1,6 @@
 # Muhamed Poric Web CV
 
-Completed on January 9th, 2024. Total Completion time: 4 days (8h a day).
-Web CV Designed by Muhamed Porić. This CV is a Portfolio piece in and of itself
+Web CV Designed by Muhamed Porić. Completed on January 9th, 2024. Total Completion time: 4 days (8h a day). This CV is a Portfolio piece in and of itself.
 
 ## Figma file:
 NOTE: Figma design and content don't perfectly reflect the final design.
