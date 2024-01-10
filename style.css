@@ -723,7 +723,7 @@ li {
     min-width: 260px;
     min-height: 350px;
     max-width: 260px;
-    max-height: 350px;
+    max-height: auto;
     border-radius: var(--radius);
     background: var(--section-highlight-bg);
     box-shadow: var(--shadow);
